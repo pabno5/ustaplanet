@@ -1,0 +1,140 @@
+/* Reset and base styles */
+body, html {
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  font-family: Arial, sans-serif;
+}
+
+/* Home container styles */
+.home-container, .solar-system-container {
+  position: relative;
+  width: 100%;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: black;
+}
+
+/* Canvas styles */
+canvas {
+  z-index: 1; /* Mantenerlo interactivo */
+  position: absolute; /* Asegurar que ocupe todo el viewport */
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
+
+/* Button container styles */
+.button-container {
+  z-index: 20; /* Ya aseguramos que esté por encima del canvas */
+  position: absolute;
+  bottom: 20px;
+  left: 50%;
+  transform: translateX(-50%);
+  display: flex; /* Asegura que los botones estén visibles */
+  gap: 5px; /* Reducir el espacio entre los botones */
+}
+
+/* Space button styles */
+.space-button {
+  padding: 12px 24px; /* Espaciado interno */
+  background: linear-gradient(90deg, #870DD9, #5F4A8C); /* Gradiente púrpura */
+  color: #FFFFFF;
+  border: none;
+  border-radius: 30px; /* Bordes más redondeados */
+  cursor: pointer;
+  font-size: 18px; /* Aumentar el tamaño de la fuente */
+  box-shadow: 0 0 15px rgba(135, 13, 217, 0.7); /* Sombra */
+  transition: all 0.3s ease; /* Transiciones suaves */
+  display: inline-block; /* Para asegurar que el botón mantenga su tamaño */
+  text-transform: uppercase; /* Texto en mayúsculas */
+  letter-spacing: 1px; /* Espaciado entre letras */
+}
+
+.space-button:hover {
+  background: linear-gradient(90deg, #5F4A8C, #870DD9); /* Cambiar gradiente al hover */
+  transform: scale(1.1) translateY(-2px); /* Aumentar el tamaño y mover ligeramente hacia arriba */
+  box-shadow: 0 0 25px rgba(135, 13, 217, 1); /* Sombra más pronunciada */
+}
+
+/* Navbar styles */
+.navbar {
+  position: fixed;
+  top: 0;
+  width: 100%;
+  background-color: #333;
+  padding: 10px;
+  display: flex;
+  justify-content: center;
+}
+
+.navbar ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  gap: 20px;
+}
+
+.navbar ul li {
+  display: inline;
+}
+
+.navbar ul li a {
+  color: white;
+  text-decoration: none;
+  padding: 10px 20px;
+  transition: background-color 0.3s;
+}
+
+.navbar ul li a:hover {
+  background-color: #575757;
+}
+
+/* Back button styles */
+.back-button {
+  position: absolute;
+  bottom: 20px;
+  left: 20px;
+}
+
+/* header.css */
+
+.button {
+  background: linear-gradient(90deg, #870DD9, #5F4A8C);
+  color: #FFFFFF;
+  padding: 10px 20px;
+  border-radius: 30px;
+  box-shadow: 0 0 15px rgba(135, 13, 217, 0.7);
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+  margin-left: 10px;
+  margin-right: 10px;
+  text-transform: none;
+}
+
+.button:hover {
+  transform: scale(1.1);
+  box-shadow: 0 0 25px rgba(135, 13, 217, 1);
+}
+
+.button:last-child {
+  margin-right: 0;
+}
+
+.look-button {
+  background: linear-gradient(45deg, #ff6b6b, #f06595);
+  color: white;
+  font-weight: bold;
+  padding: 10px 20px;
+  border-radius: 8px;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.look-button:hover {
+  transform: scale(1.1);
+  box-shadow: 0 6px 8px rgba(0, 0, 0, 0.2);
+}

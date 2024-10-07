@@ -1,0 +1,30 @@
+.cards {
+    padding: 50px;
+    width: 50%;
+
+    .planetCards {
+        display: flex;
+        flex-wrap: wrap; // Permitir que los elementos se envuelvan
+        width: 100%;
+    }
+
+    .category{
+        color: white;
+        margin-top: 2rem;
+
+        h2{
+            font-size: 300%;
+            margin: 0;
+        }
+
+        p{
+            width: 70%;
+        }
+    }
+
+    .planet {
+        width: calc(50% - 8vw); // Dos planetas por fila con un margen de 5px
+        margin: 5px; // Margen entre las tarjetas
+        box-sizing: border-box; // Asegúrate de que el ancho incluya el padding y el border
+    }
+}

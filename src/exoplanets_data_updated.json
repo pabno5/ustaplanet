@@ -1,0 +1,158 @@
+{
+    "Gigantes Gaseosos": {
+        "definicion": "Los gigantes gaseosos son planetas enormes, mucho m\u00e1s grandes que la Tierra, pero no est\u00e1n hechos de roca como nuestro planeta. En su mayor\u00eda est\u00e1n formados por gases como el hidr\u00f3geno y el helio. \u00a1Es como si fueran enormes globos flotando en el espacio!",
+        "planets": [
+            {
+                "nombre": "51 Pegasi b",
+                "imagen": "https://ztfnews.wordpress.com/wp-content/uploads/2014/10/51_pegasi_b_by_celestia.jpg",
+                "distancia_al_sol": "50 a\u00f1os luz",
+                "edad": "8 mil millones de a\u00f1os",
+                "fecha_descubrimiento": 1995,
+                "ejemplo": "Si alinearas 400.000 millones de balones de f\u00fatbol uno tras otro, podr\u00edas llegar desde el Sol hasta 51 Pegasi b. \u00a1Eso llenar\u00eda 10 veces Am\u00e9rica del Norte con balones!"
+            },
+            {
+                "nombre": "55 Cancri e",
+                "imagen": "https://content.nationalgeographic.com.es/medio/2018/02/28/55-cancri-e__1280x720.JPG",
+                "distancia_al_sol": "41 a\u00f1os luz",
+                "edad": "8.2 mil millones de a\u00f1os",
+                "fecha_descubrimiento": 2004,
+                "ejemplo": "Para llegar desde el Sol a 55 Cancri e, necesitar\u00edas 328.000 millones de balones de f\u00fatbol. \u00a1Eso es m\u00e1s grande que todo Rusia cubierto dos veces con balones!"
+            },
+            {
+                "nombre": "Corot-7b",
+                "imagen": "https://i.natgeofe.com/n/13c23483-c146-47e7-8097-55489cb33b61/12683_square.jpg",
+                "distancia_al_sol": "490 a\u00f1os luz",
+                "edad": "1.5 mil millones de a\u00f1os",
+                "fecha_descubrimiento": 2009,
+                "ejemplo": "Coloca 3.920.000 millones de balones de f\u00fatbol desde el Sol y llegar\u00edas a Corot-7b. \u00a1Podr\u00edas cubrir la Tierra 75 veces con esos balones!"
+            },
+            {
+                "nombre": "Kepler-7b",
+                "imagen": "https://news.uchicago.edu/sites/default/files/images/2020-06/au_mic_b.jpg",
+                "distancia_al_sol": "1010 a\u00f1os luz",
+                "edad": "2 mil millones de a\u00f1os",
+                "fecha_descubrimiento": 2010,
+                "ejemplo": "Para llegar desde el Sol a Kepler-7b, necesitar\u00edas 8.080.000 millones de balones de f\u00fatbol. \u00a1Eso cubrir\u00eda la Tierra 200 veces con balones!"
+            },
+            {
+                "nombre": "WASP-12b",
+                "imagen": "https://cloudfront-us-east-1.images.arcpublishing.com/metroworldnews/RQSFNNBWZRC5RM6DEXYILTK2QY.jpg",
+                "distancia_al_sol": "870 a\u00f1os luz",
+                "edad": "2 mil millones de a\u00f1os",
+                "fecha_descubrimiento": 2008,
+                "ejemplo": "Necesitar\u00edas 6.960.000 millones de balones de f\u00fatbol para llegar al exoplaneta WASP-12b desde el Sol. \u00a1Es como cubrir la Tierra 150 veces!"
+            }
+        ]
+    },
+    "Neptunos Calientes": {
+        "definicion": "Los Neptunos calientes son planetas parecidos a Neptuno, pero est\u00e1n mucho m\u00e1s cerca de su estrella, lo que los hace muy calientes. Son m\u00e1s peque\u00f1os que los gigantes gaseosos, pero tambi\u00e9n est\u00e1n hechos en su mayor\u00eda de gas. Imagina a Neptuno, solo que much\u00edsimo m\u00e1s cerca de su sol, \u00a1por eso est\u00e1 tan caliente!",
+        "planets": [
+            {
+                "nombre": "Gliese 581 e",
+                "imagen": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Planet_Gliese_581_e.png/1200px-Planet_Gliese_581_e.png",
+                "distancia_al_sol": "20 a\u00f1os luz",
+                "edad": "7 mil millones de a\u00f1os",
+                "fecha_descubrimiento": 2009,
+                "ejemplo": "Para llegar desde el Sol a Gliese 581 e, necesitar\u00edas 160.000 millones de balones de f\u00fatbol. \u00a1Es como llenar muchos pa\u00edses enteros de balones!"
+            },
+            {
+                "nombre": "Gliese 876 e",
+                "imagen": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/ConceptJKV-Gliese876-e.png/640px-ConceptJKV-Gliese876-e.png",
+                "distancia_al_sol": "15 a\u00f1os luz",
+                "edad": "8 mil millones de a\u00f1os",
+                "fecha_descubrimiento": 2010,
+                "ejemplo": "Con 120.000 millones de balones de f\u00fatbol alineados, podr\u00edas cubrir la distancia desde el Sol hasta Gliese 876 e. \u00a1Eso es como llenar muchos pa\u00edses peque\u00f1os con balones!"
+            }
+        ]
+    },
+    "Supertierras": {
+        "definicion": "Las supertierras son planetas rocosos como la Tierra, pero m\u00e1s grandes. Algunas pueden tener monta\u00f1as, volcanes y tal vez agua, pero son mucho m\u00e1s grandes y pesadas que nuestro planeta. \u00a1Imagina una versi\u00f3n s\u00faper fuerte de la Tierra, como si fuera una 'Tierra gigante'!",
+        "planets": [
+            {
+                "nombre": "Gliese 581 d",
+                "imagen": "https://astrophotographylens.com/cdn/shop/articles/gliese-581d-1.jpg?v=1708574402",
+                "distancia_al_sol": "20 a\u00f1os luz",
+                "edad": "7 mil millones de a\u00f1os",
+                "fecha_descubrimiento": 2007,
+                "ejemplo": "Necesitar\u00edas 160.000 millones de balones de f\u00fatbol alineados para llegar desde el Sol a Gliese 581 d. \u00a1Eso cubrir\u00eda todo un continente peque\u00f1o!"
+            },
+            {
+                "nombre": "Kepler-186f",
+                "imagen": "https://media.gettyimages.com/id/973203020/photo/kepler-186f-also-known-by-its-kepler-object-of-interest-designation-koi-571.jpg?b=1&s=594x594&w=0&k=20&c=QZmsM0Pfyvc-7oQAJKVhbu1UXwqy6D-nYquAvQqBGiw=",
+                "distancia_al_sol": "500 a\u00f1os luz",
+                "edad": "4 mil millones de a\u00f1os",
+                "fecha_descubrimiento": 2014,
+                "ejemplo": "Har\u00edan falta 4.000.000 millones de balones de f\u00fatbol para llegar al exoplaneta Kepler-186f. \u00a1Eso es como llenar varias veces la Tierra con balones!"
+            },
+            {
+                "nombre": "Kepler-22b",
+                "imagen": "https://science.nasa.gov/wp-content/uploads/2024/03/Kepler22b.jpg?w=1024",
+                "distancia_al_sol": "620 a\u00f1os luz",
+                "edad": "4 mil millones de a\u00f1os",
+                "fecha_descubrimiento": 2011,
+                "ejemplo": "Si pones 4.960.000 millones de balones de f\u00fatbol, cubrir\u00edas la distancia desde el Sol a Kepler-22b. \u00a1Eso es como llenar 100 veces la superficie de la Tierra con balones!"
+            },
+            {
+                "nombre": "Kepler-452b",
+                "imagen": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Kepler-452b_artist_concept.jpg/800px-Kepler-452b_artist_concept.jpg",
+                "distancia_al_sol": "1400 a\u00f1os luz",
+                "edad": "6 mil millones de a\u00f1os",
+                "fecha_descubrimiento": 2015,
+                "ejemplo": "Necesitar\u00edas 11.200.000 millones de balones de f\u00fatbol para llegar desde el Sol hasta Kepler-452b. \u00a1Es como llenar toda la Tierra 280 veces con balones!"
+            },
+            {
+                "nombre": "LP 791-18d",
+                "imagen": "https://culturacientifica.com/app/uploads/2023/05/figura-1-2.jpg",
+                "distancia_al_sol": "90 a\u00f1os luz",
+                "edad": "7 mil millones de a\u00f1os",
+                "fecha_descubrimiento": 2019,
+                "ejemplo": "Con 720.000 millones de balones de f\u00fatbol, podr\u00edas llegar desde el Sol hasta LP 791-18d. \u00a1Eso es como llenar un pa\u00eds peque\u00f1o muchas veces!"
+            }
+        ]
+    },
+    "Gigantes Liquidos": {
+        "definicion": "Los gigantes lquidos son planetas enormes con un interior que podr\u00eda ser l\u00edquido, pero tambi\u00e9n tienen una atm\u00f3sfera de gas. Son un poco como los gigantes gaseosos, pero con algo de l\u00edquido dentro. Imagina una enorme pelota que tiene agua o alg\u00fan otro l\u00edquido por dentro, pero est\u00e1 rodeada de gas.",
+        "planets": [
+            {
+                "nombre": "HD 209458 b",
+                "imagen": "https://th.bing.com/th/id/OIP.wr9ZJ0KOexpH-FJ1UvSy8QHaGq?rs=1&pid=ImgDetMain",
+                "distancia_al_sol": "153 a\u00f1os luz",
+                "edad": "4 mil millones de a\u00f1os",
+                "fecha_descubrimiento": 1999,
+                "ejemplo": "Si alineas 40,800,000,000 balones de f\u00fatbol, alcanzar\u00edas la distancia de HD 209458 b al Sol."
+            },
+            {
+                "nombre": "GJ 1214 b",
+                "imagen": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Planet_GJ_1214_b.png/1200px-Planet_GJ_1214_b.png",
+                "distancia_al_sol": "48 a\u00f1os luz",
+                "edad": "6 mil millones de a\u00f1os",
+                "fecha_descubrimiento": 2009,
+                "ejemplo": "\u00a1Tendr\u00edan que alinearse 12,800,000,000 balones de f\u00fatbol para llegar desde GJ 1214 b hasta el Sol!"
+            },
+            {
+                "nombre": "HD 189733 b",
+                "imagen": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/81d93305-4ac2-4eab-b5a8-6dd1125156b3/dh4d2bl-9104b9a4-8b2b-4394-98d4-b7e596ffe68c.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzgxZDkzMzA1LTRhYzItNGVhYi1iNWE4LTZkZDExMjUxNTZiM1wvZGg0ZDJibC05MTA0YjlhNC04YjJiLTQzOTQtOThkNC1iN2U1OTZmZmU2OGMuanBnIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.xIbgswzPQJk-nbm2WqtSfoNoqpplllYy6Tgo3OZnVM0",
+                "distancia_al_sol": "64 a\u00f1os luz",
+                "edad": "5 mil millones de a\u00f1os",
+                "fecha_descubrimiento": 2005,
+                "ejemplo": "Imagina 17,067,200,000 balones de f\u00fatbol en fila para alcanzar la distancia de este exoplaneta al Sol."
+            },
+            {
+                "nombre": "WASP-17b",
+                "imagen": "https://economiasustentable.com/wp-content/uploads/2023/10/Exoplaneta-1000x562.jpeg",
+                "distancia_al_sol": "1000 a\u00f1os luz",
+                "edad": "3 mil millones de a\u00f1os",
+                "fecha_descubrimiento": 2009,
+                "ejemplo": "Si quieres imaginar la distancia, necesitar\u00edas alinear 266,400,000,000 balones de f\u00fatbol."
+            },
+            {
+                "nombre": "HAT-P-7b",
+                "imagen": "https://th.bing.com/th/id/OIP.cfbqoa2qAanLz7STHOEz8AHaE5?rs=1&pid=ImgDetMain",
+                "distancia_al_sol": "1040 a\u00f1os luz",
+                "edad": "2 mil millones de a\u00f1os",
+                "fecha_descubrimiento": 2008,
+                "ejemplo": "\u00a1Con 276,576,000,000 balones de f\u00fatbol alineados, alcanzar\u00edas la distancia de HAT-P-7b al Sol!"
+            }
+        ]
+    }
+}
